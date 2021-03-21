@@ -1,4 +1,3 @@
-import react from 'react';
 import Button from './reusableComponents/Button';
 
 const CardInfo = ({ shoePrice, updateCart }) => {
